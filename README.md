@@ -19,4 +19,4 @@ facturación y productividad médica.
 - Ranking de médicos por productividad
 
 ## Autor
-Martin Lauro — LinkedIn https://www.linkedin.com/in/martin-lauro/
+Martin Lauro — [LinkedIn](https://www.linkedin.com/in/martin-lauro/)
